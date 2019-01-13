@@ -1,14 +1,22 @@
-# JSX and React
-This repository serves to document my learning of JSX and React. This is an application to obtain the user's input of a search term, display relevant images to the search term. 
+# Stock Image Searcher
+This repository serves to document my learning of JSX and React.<br> This is a web application to obtain the user's input of a search term, then display relevant stock images. 
 
 ## What I Have Used
 
 **React and JSX**
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+**[Unsplash API] (https://api.unsplash.com)**
+API to provide stock images.
+
+**[axios] (https://www.npmjs.com/package/axios)**
+Send requests to Unsplash API.
 
 ## Getting Started
-For an offline version, in the project directory, you can run:
+For an online version: Click on [link](https://tingzhouu.github.io/img-search-react)
+
+
+For an offline version: In the project directory, you can run:
 
 ### `npm start`
 
