@@ -12,6 +12,9 @@ API to provide stock images.
 **[axios] (https://www.npmjs.com/package/axios)**
 Send requests to Unsplash API.
 
+**[react-gh-pages] (https://github.com/gitname/react-gh-pages)**
+Deploy react app onto github pages.
+
 ## Getting Started
 For an online version: Click on [link](https://tingzhouu.github.io/img-search-react)
 
