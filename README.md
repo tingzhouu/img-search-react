@@ -6,13 +6,16 @@ This repository serves to document my learning of JSX and React.<br> This is a w
 **React and JSX**
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-**[Unsplash API] (https://api.unsplash.com)**
+**[Unsplash API](https://api.unsplash.com)**
 API to provide stock images.
 
-**[axios] (https://www.npmjs.com/package/axios)**
+**[axios](https://www.npmjs.com/package/axios)**
 Send requests to Unsplash API.
 
-**[react-gh-pages] (https://github.com/gitname/react-gh-pages)**
+**[semantic ui](https://semantic-ui.com/)**
+Used for styling.
+
+**[react-gh-pages](https://github.com/gitname/react-gh-pages)**
 Deploy react app onto github pages.
 
 ## Getting Started
